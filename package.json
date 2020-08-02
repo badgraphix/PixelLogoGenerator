@@ -1,0 +1,25 @@
+{
+  "name": "pixellogogenerator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "canvas": "^2.6.1",
+    "discord.js": "^12.2.0",
+    "package.json": "^2.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/badgraphix/PixelLogoGenerator.git"
+  },
+  "author": "Cameron Brady",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/badgraphix/PixelLogoGenerator/issues"
+  },
+  "homepage": "https://github.com/badgraphix/PixelLogoGenerator#readme"
+}
